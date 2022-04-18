@@ -1,0 +1,7 @@
+{
+    "name": "BingoDisconnect",
+    "description": "Disconnects from Skyblock every 50 seconds",
+    "creator": "stuffiness",
+    "entry": "index.js",
+    "version": "0.0.1"
+  }
